@@ -1,0 +1,1 @@
+Full stack AI log analysis starter project
